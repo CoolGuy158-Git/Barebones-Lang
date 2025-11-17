@@ -1,7 +1,9 @@
 # /// Barebones \\\
 # A minimalist experimental programming language
 # MIT License © 2025 CoolGuy158
-#This is the LEXER
+
+
+# This is the LEXER
 
 ########
 #TOKENS#
